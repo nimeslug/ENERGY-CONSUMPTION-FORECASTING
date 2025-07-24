@@ -28,6 +28,7 @@ The dataset includes timestamped energy usage data along with environmental and 
 - Artificial Neural Networks (ANN)  
 - Temporal Fusion Transformer (TFT)  
 - Stacking & Ensemble methods
+- Decision Tree
 
 ---
 
